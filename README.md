@@ -5,6 +5,8 @@
 🎨 When I'm not coding, you'll find me writing poems, exploring new ideas, or engaging with creative clubs.<br/>
 💡 Let's connect and build something awesome together!<br/>
 
+<img src="https://komarev.com/ghpvc/?username=itishacodes&color=e35026&style=flat-square&label=SYSTEM+ENTRIES" />
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/itisha_.m) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itisha-maheshwari/)
 
