@@ -15,4 +15,11 @@
 
 
 
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=itishacodes&theme=react-dark&area=true"/> </p>
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itishacodes&theme=synthwave-84&area=true"/> 
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=itishacodes&color=ff007f&style=for-the-badge" alt="visitor counter" />
+</p>
+
