@@ -62,19 +62,30 @@
 <div align="center">
 <img width="70%" src="https://streak-stats.demolab.com?user=itishacodes&theme=rose_pine&hide_border=true"/>
 </div>
-
+<br/>
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itishacodes&theme=rose_pine"/>
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itishacodes&theme=rose_pine"/>
 </div>
+<br/>
 
+<div align="center">
+
+| <a href="https://github.com/itishacodes/space-shooter"><img src="https://raw.githubusercontent.com/itishacodes/space-shooter/main/assets/space-shooter.gif" alt="GitHub Activity Game" width="100%" /></a> |
+| :---: |
+
+</div>
 
 <br/>
+
+
 <p align="center"> 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itishacodes&theme=synthwave-84&area=true"/> 
 </p>
+
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=itishacodes&color=ff007f&style=for-the-badge" alt="visitor counter" />
