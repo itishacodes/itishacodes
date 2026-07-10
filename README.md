@@ -71,6 +71,14 @@
 </div>
 <br/>
 
+
+
+<p align="center"> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itishacodes&theme=synthwave-84&area=true"/> 
+</p>
+
+
+
 <div align="center">
 
 | <a href="https://github.com/itishacodes/space-shooter"><img src="https://raw.githubusercontent.com/itishacodes/space-shooter/main/assets/space-shooter.gif" alt="GitHub Activity Game" width="100%" /></a> |
@@ -81,13 +89,7 @@
 <br/>
 
 
-<p align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=itishacodes&theme=synthwave-84&area=true"/> 
-</p>
-
-
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=itishacodes&color=ff007f&style=for-the-badge" alt="visitor counter" />
+  <img src="https://counter.kuber.studio/itishacodes/hacker/count.svg" alt="Profile views" />
 </p>
 
