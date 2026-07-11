@@ -51,6 +51,25 @@
 <br/>
 
 
+## 🏅 Badges
+<div align="center">
+  <a href="https://www.credly.com/badges/7378ed5b-14bb-403a-a9f3-8cfb09c9471b/public_url" target="_blank">
+    <img src="./badge1.png" alt="Credly Certification Badge" width="220"/>
+  </a>
+  <a href="https://www.credly.com/badges/a67766d7-b87e-4ba2-9a86-a13c61260a58/public_url" target="_blank">
+    <img src="./badge2.png" alt="Credly Certification Badge" width="220"/>
+  </a>
+  <a href="https://www.credly.com/badges/d36bdc10-04ed-43a3-9670-0d5508335de6/public_url" target="_blank">
+    <img src="./badge3.png" alt="Credly Certification Badge" width="220"/>
+  </a>
+  <a href="https://www.credly.com/badges/263e0269-f003-4301-a222-a30222afa226/public_url" target="_blank">
+    <img src="./badge4.png" alt="Credly Certification Badge" width="220"/>
+  </a>
+</div>
+
+<br/>
+
+
 ## 📌 Metrics
 
 <div align="center">
