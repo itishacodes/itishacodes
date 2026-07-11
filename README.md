@@ -86,20 +86,20 @@
 ## 📌 Metrics
 
 <div align="center">
-<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=itishacodes&count_private=true&show_icons=true&theme=rose_pine&rank_icon=github&border_radius=10"/>
+<img width="48%" src="https://github-readme-stats-salesp07.vercel.app/api?username=itishacodes&count_private=true&show_icons=true&theme=radical&rank_icon=github&border_radius=10"/>
 </div>
 
 <br/>
 
 <div align="center">
-<img width="70%" src="https://streak-stats.demolab.com?user=itishacodes&theme=rose_pine&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=itishacodes&theme=radical&hide_border=true"/>
 </div>
 <br/>
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itishacodes&theme=rose_pine"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=itishacodes&theme=radical"/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itishacodes&theme=rose_pine"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=itishacodes&theme=radical"/>
 </div>
 <br/>
 
