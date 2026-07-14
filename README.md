@@ -8,6 +8,17 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=itishacodes&color=e35026&style=flat-square&label=SYSTEM+ENTRIES" /> -->
 <br/>
 
+```
+                                                                                ## #
+                         ^                             ^                       # #                      
+      ^    ^            /|\            ^    ^         /|\ ^                   ##         ^              
+  ^  /|\  /|\  ^        /|\  ^     ^  /|\  /|\  ^     /|\/|\    ^          __||         /|\ ^    ^   ^ 
+ /|\ /|\  /|\ /|\       /|\ /|\   /|\ /|\  /|\ /|\    /|\/|\   /|\        /.\__\        /|\/|\  /|\ /|\
+ .|  #|.. .|& /|\        | #&|.   .|  #|.. .|& /|\     | #|.   /|\        |O | |        .| #|.. .|& /|\
+```
+
+<br/>
+
 ## 🌐 Connect with Me:
 [![Portfolio](https://img.shields.io/badge/Portfolio-%23ff6fd9.svg?style=for-the-badge&logo=windowsterminal&logoColor=white)](https://itisha-maheshwari.netlify.app/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/itisha-maheshwari/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/itisha_.m)
 
